@@ -1,4 +1,4 @@
-git config --global user.email "you@example.com"# hello-world
+# hello-world
 This project is created as part of a tutorial.
 
 I'm learning Git because it's a popular platform.
